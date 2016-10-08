@@ -4,7 +4,6 @@
 
 Las Civic Hack Nights son espacios organizados de manera periódica para que la comunidad de tecnología cívica de la región se reuna a aprender y desarrollar proyectos.
 
-## 1. Definir el día y lugar de la hack night
 
 1. El primer paso (y en algunos casos el más complicado) es el definir un día y espacio para realizar la hack night. El lugar preferentemente debe ser fácil de ubicar y acceder desde distintos puntos de la ciudad. Una buena idea podría ser encontrar puntos donde líneas de transporte púlico se intersecten (hey, hasta podría ser un proyecto de la hack night mapear las rutas de camión!).
 
